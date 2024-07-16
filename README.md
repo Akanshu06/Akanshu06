@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&pid=Api&P=0&h=180">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanshu06&label=Profile%20views&color=0e75b6&style=flat" alt="akanshu06" /> </p>
 
-- 🔭 I’m currently working on [Expense_tacker](https://github.com/Akanshu06/expanses-tracker-app)
+- 🔭 I’m currently working on [Expense_tacker](https://github.com/Akanshu06/Group_chat-app)
 
 - 🌱 I’m currently learning **web-development**
 
