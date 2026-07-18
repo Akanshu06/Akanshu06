@@ -1,34 +1,230 @@
-![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Akanshu</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&pid=Api&P=0&h=180">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akanshu06&label=Profile%20views&color=0e75b6&style=flat" alt="akanshu06" /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on https://sahipata.in/
+# 👋 Hi, I'm Akanshu Pandey
 
-- 🌱 I’m currently learning **web-development**
+### 🚀 Full Stack JavaScript Developer
 
-- 💬 Ask me about **Javascript,nodejs,expressjs,aws,java,advance java**
+### React • Next.js • Node.js • Express.js • MongoDB • TypeScript
 
-- 📫 How to reach me **akanshu3264@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=akanshu06&label=Profile%20Views&color=0e75b6&style=flat" />
 
-- ⚡ Fun fact **The first person in the world to carry the title of a coder was a woman named Ada Lovelace.**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akanshu-pandey-b479811a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanshu-pandey-b479811a0" height="30" width="40" /></a>
-<a href="https://fb.com/akanshu06@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akanshu06@gmail.com" height="30" width="40" /></a>
-<a href="https://instagram.com/akanshu06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akanshu06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akanshu3264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akanshu3264" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@akanshu3264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@akanshu3264" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akanshuclw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akanshuclw" height="30" width="40" /></a>
+---
+
+## 💫 About Me
+
+I'm a Full Stack JavaScript Developer from India with 2+ years of experience building scalable web applications using the MERN stack.
+
+I enjoy creating fast, secure, and responsive applications with clean architecture and maintainable code.
+
+Currently I'm working on modern business applications and continuously improving my backend architecture, cloud deployment, and system design skills.
+
+---
+
+## 🚀 Current Focus
+
+- 🔭 Working on **Sahipata**
+- 🌱 Learning **Cloud Deployment, System Design & Scalable Architecture**
+- 💻 Building Full Stack MERN Applications
+- 🤝 Open to Freelance Projects
+- ⚡ Love solving real-world business problems using technology
+
+---
+
+# 💼 Services
+
+✔ Full Stack Web Development
+
+✔ React.js Development
+
+✔ Next.js Development
+
+✔ Node.js Backend Development
+
+✔ REST API Development
+
+✔ Authentication System
+
+✔ Admin Dashboard
+
+✔ MongoDB Database Design
+
+✔ Bug Fixing
+
+✔ Performance Optimization
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,javascript,typescript" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### Backend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanshu06&show_icons=true&locale=en&layout=compact" alt="akanshu06" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanshu06&show_icons=true&locale=en" alt="akanshu06" /></p>
+### Cloud & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akanshu06&" alt="akanshu06" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,vercel" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📌 Sahipata
+
+Modern Legal & Property Management Platform
+
+**Tech Stack**
+
+Next.js • Node.js • MongoDB
+
+---
+
+## 📌 Authentication System
+
+JWT Authentication
+
+Google Login
+
+Role Based Access
+
+Node.js + Express
+
+---
+
+## 📌 Expense Tracker
+
+Expense Management Application
+
+Node.js
+
+AWS
+
+MongoDB
+
+---
+
+## 📌 Chat Application
+
+Real-time Chat
+
+Socket.IO
+
+Node.js
+
+MongoDB
+
+---
+
+## 📌 Personal Portfolio
+
+Responsive Portfolio Website
+
+Next.js
+
+Tailwind CSS
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akanshu06&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanshu06&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akanshu06&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Portfolio
+
+### Website
+
+https://myportfolio-puce-one.vercel.app/
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/akanshu-pandey-b479811a0">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:akanshu3264@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/akanshu06">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://instagram.com/akanshu06">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+</p>
+
+---
+
+# 💬 Ask Me About
+
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- TypeScript
+- REST APIs
+- Authentication
+- AWS
+- Full Stack Development
+
+---
+
+# 📫 Contact
+
+📧 **akanshu3264@gmail.com**
+
+🌐 Portfolio
+
+https://myportfolio-puce-one.vercel.app/
+
+💼 LinkedIn
+
+https://linkedin.com/in/akanshu-pandey-b479811a0
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you like my work, consider following me and checking out my repositories.
+
+Let's build something amazing together 🚀
+
+</div>
